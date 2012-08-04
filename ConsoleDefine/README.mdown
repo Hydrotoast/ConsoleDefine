@@ -4,7 +4,7 @@ ConsoleDefine
 A system utility for looking up English words through the
 "define" keyword. For example:
 
-	define obtuse
+	$ define obtuse
 
 	220 pan.alephnull.com dictd 1.12.0/rf on Linux 3.0.0-14-server <auth.mime> <39729863.14760.1344071017@pan.alephnull.com>
 	250 ok
@@ -24,3 +24,9 @@ A system utility for looking up English words through the
 	.
 	250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
 	221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]
+
+
+Installation
+------------
+
+Utility should be placed in `/usr/local/bin`
